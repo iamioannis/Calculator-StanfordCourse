@@ -24,6 +24,6 @@ class ViewController: UIViewController {
 			userIsInTheMiddleOfTypingANumber = true
 		}
 	}
-	//Blah Blah some comments
+	//Blah Blah some more comments
 }
 
